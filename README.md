@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @buchjp
+- 👀 I’m interested in Web apps, Progressive web apps, backend and frontend development
+- 🌱 I’m currently learning about Nextjs, Python, Machine Learning, Statistic, Data Science, Data Visualization, Nodejs, JavaScript.
+- 💞️ I’m looking to collaborate on IoT Projects, Web Apps and so on...
